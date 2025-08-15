@@ -6,15 +6,15 @@ Vite-powered React frontend application.
 
 ### Development
 ```bash
-pnpm dev
+pnpm --filter @demo/frontend dev
 ```
 
 ### Build
 ```bash
-pnpm build
+pnpm --filter @demo/frontend build
 ```
 
 ### Preview (Production Build)
 ```bash
-pnpm preview
+pnpm --filter @demo/frontend preview
 ```

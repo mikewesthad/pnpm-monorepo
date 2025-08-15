@@ -6,7 +6,7 @@ Light theme text components.
 
 ### Build
 ```bash
-pnpm build
+pnpm --filter @demo/light-text build
 ```
 
 **Note:** This is a library package that exports TypeScript components directly. No start command needed.

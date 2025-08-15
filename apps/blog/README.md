@@ -6,15 +6,15 @@ Next.js blog application.
 
 ### Development
 ```bash
-pnpm dev
+pnpm --filter @demo/blog dev
 ```
 
 ### Build
 ```bash
-pnpm build
+pnpm --filter @demo/blog build
 ```
 
 ### Start (Production)
 ```bash
-pnpm start
+pnpm --filter @demo/blog start
 ```

@@ -6,7 +6,7 @@ Shared UI components library.
 
 ### Build
 ```bash
-pnpm build
+pnpm --filter @demo/ui build
 ```
 
 **Note:** This is a library package that exports TypeScript components directly. No start command needed.
