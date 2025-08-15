@@ -55,4 +55,3 @@ lerna-debug.log*
 *.tsbuildinfo
 
 # Package manager
-pnpm-lock.yaml
