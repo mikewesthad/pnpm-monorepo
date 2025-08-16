@@ -1,6 +1,6 @@
 # @demo/blog
 
-Blog application.!
+Blog application.
 
 ## Commands
 
