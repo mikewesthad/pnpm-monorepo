@@ -1,6 +1,6 @@
 # @demo/ui
 
-Shared UI components library!!
+Shared UI components library
 
 ## Commands
 
