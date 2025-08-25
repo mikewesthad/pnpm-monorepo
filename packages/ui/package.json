@@ -4,7 +4,8 @@
   "main": "./src/index.ts",
   "types": "./src/index.ts",
   "scripts": {
-    "build": "echo 'Building UI package'"
+    "build": "echo 'Building UI package'",
+    "dev": "echo 'Running UI package'"
   },
   "dependencies": {
     "react": "^18.2.0"

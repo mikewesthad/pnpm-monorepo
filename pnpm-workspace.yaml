@@ -1,5 +1,3 @@
 packages:
   - "apps/*"
   - "packages/ui"
-  - "components/**"
-  - "!**/test/**"
