@@ -1,6 +1,6 @@
 # @demo/frontend
 
-Vite-powered React frontend application.
+Vite-powered frontend application!
 
 ## Commands
 

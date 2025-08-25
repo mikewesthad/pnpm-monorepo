@@ -1,6 +1,6 @@
 # @demo/blog
 
-Next.js blog application.
+Blog application.
 
 ## Commands
 
