@@ -12,6 +12,31 @@ importers:
         specifier: ^5.0.0
         version: 5.9.2
 
+  apps/backend:
+    dependencies:
+      next:
+        specifier: ^14.0.0
+        version: 14.2.31(react-dom@18.3.1)(react@18.3.1)
+      react:
+        specifier: ^18.2.0
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.2.0
+        version: 18.3.1(react@18.3.1)
+    devDependencies:
+      '@types/node':
+        specifier: ^20.0.0
+        version: 20.19.11
+      '@types/react':
+        specifier: ^18.2.0
+        version: 18.3.23
+      '@types/react-dom':
+        specifier: ^18.2.0
+        version: 18.3.7(@types/react@18.3.23)
+      typescript:
+        specifier: ^5.0.0
+        version: 5.9.2
+
   apps/blog:
     dependencies:
       next:
@@ -61,32 +86,6 @@ importers:
       vite:
         specifier: ^5.0.0
         version: 5.4.19
-
-  components/dark/text:
-    dependencies:
-      react:
-        specifier: ^18.2.0
-        version: 18.3.1
-    devDependencies:
-      '@types/react':
-        specifier: ^18.2.0
-        version: 18.3.23
-      typescript:
-        specifier: ^5.0.0
-        version: 5.9.2
-
-  components/light/text:
-    dependencies:
-      react:
-        specifier: ^18.2.0
-        version: 18.3.1
-    devDependencies:
-      '@types/react':
-        specifier: ^18.2.0
-        version: 18.3.23
-      typescript:
-        specifier: ^5.0.0
-        version: 5.9.2
 
   packages/ui:
     dependencies:
